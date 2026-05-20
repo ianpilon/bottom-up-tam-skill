@@ -45,7 +45,9 @@ Claude will ask for the six inputs it cannot invent (product, ACV, ICP, customer
 
 ## Credit
 
-The framework comes from a Launch accelerator talk by Kabir (This Week in Startups investment team), May 19 2026. The skill turns the talk into a repeatable workflow.
+The methodology comes from **Kabir Dhillon**, who originally shared it in a Founder University talk (This Week in Startups). Ian Pilon transcribed the talk and converted it into this skill so the framework is reusable inside Claude Code.
+
+All credit for the framework, examples, and investor-credibility heuristics belongs to Kabir. This repo is just the packaging.
 
 ## License
 

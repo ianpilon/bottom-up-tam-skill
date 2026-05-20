@@ -12,6 +12,8 @@ description: >
 
 # Bottom-Up TAM
 
+> Methodology by **Kabir Dhillon**, originally shared in a Founder University talk (This Week in Startups). Packaged as a Claude Code skill by Ian Pilon.
+
 Build market sizing from the founder's actual pricing and customer count, not from top-down market reports. Credibility is the game, not size.
 
 ## The formula
